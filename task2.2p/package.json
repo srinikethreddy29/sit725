@@ -1,0 +1,11 @@
+{
+  "name": "sit725-task2.2p",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
