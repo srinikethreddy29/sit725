@@ -1,0 +1,16 @@
+{
+  "name": "task4.2p",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "SIT725 Task 4.2P - MongoDB integration",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1"
+  }
+}
